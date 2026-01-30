@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+---
+layout: default
+title: About
+---
+
 <html lang="en-US">
 <head><meta charset="UTF-8">
 	
@@ -16,17 +20,18 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 </script>
 <style id="wp-emoji-styles-inline-css">
 
-	img.wp-smiley, img.emoji {
-		display: inline !important;
-		border: none !important;
-		box-shadow: none !important;
-		height: 1em !important;
-		width: 1em !important;
-		margin: 0 0.07em !important;
-		vertical-align: -0.1em !important;
-		background: none !important;
-		padding: 0 !important;
-	}
+    img.wp-smiley, img.emoji {
+    	display: inline !important;
+    	border: none !important;
+    	box-shadow: none !important;
+    	height: 1em !important;
+    	width: 1em !important;
+    	margin: 0 0.07em !important;
+    	vertical-align: -0.1em !important;
+    	background: none !important;
+    	padding: 0 !important;
+    }
+
 </style>
 <link rel="stylesheet" id="wp-block-library-css" href="https://gymx.github.io/bonniebourne/wp-includes/css/dist/block-library/style.min.css?ver=6.7.4" media="all">
 <style id="wp-block-library-theme-inline-css">
@@ -58,17 +63,18 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 	<a class="skip-link screen-reader-text" href="#content">
 		Skip to content	</a>
 
-		<header id="masthead" class="site-header featured-image">
+    	<header id="masthead" class="site-header featured-image">
 
-			<div class="site-branding-container">
-				<div class="site-branding">
+    		<div class="site-branding-container">
+    			<div class="site-branding">
 
-								<p class="site-title"><a href="https://gymx.github.io/bonniebourne/" rel="home">Bonnie Bourne</a></p>
-			
-				<p class="site-description">
-				The adventures of buying the ancestral farm.			</p>
-				<nav id="site-navigation" class="main-navigation" aria-label="Top Menu">
-			<div class="menu-main-menu-container"><ul id="menu-main-menu" class="main-menu"><li id="menu-item-271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-271"><a href="https://gymx.github.io/bonniebourne/photos/">Photos</a></li>
+    							<p class="site-title"><a href="https://gymx.github.io/bonniebourne/" rel="home">Bonnie Bourne</a></p>
+
+    			<p class="site-description">
+    			The adventures of buying the ancestral farm.			</p>
+    			<nav id="site-navigation" class="main-navigation" aria-label="Top Menu">
+    		<div class="menu-main-menu-container"><ul id="menu-main-menu" class="main-menu"><li id="menu-item-271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-271"><a href="https://gymx.github.io/bonniebourne/photos/">Photos</a></li>
+
 <li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-28"><a href="https://gymx.github.io/bonniebourne/" aria-current="page">About</a></li>
 <li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="https://gymx.github.io/bonniebourne/contact/">Contact</a></li>
 </ul></div>
@@ -93,73 +99,91 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 	</div><!-- .site-branding -->
 			</div><!-- .site-branding-container -->
 
-							<div class="site-featured-image">
-					
-			<figure class="post-thumbnail">
-				<img width="1200" height="900" src="https://gymx.github.io/bonniebourne/wp-content/uploads/2016/10/BBGeneral-1-1200x900.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Bonnie Bourne" decoding="async" fetchpriority="high" srcset="https://gymx.github.io/bonniebourne/wp-content/uploads/2016/10/BBGeneral-1.jpg 1200w, https://gymx.github.io/bonniebourne/wp-content/uploads/2016/10/BBGeneral-1-300x225.jpg 300w, https://gymx.github.io/bonniebourne/wp-content/uploads/2016/10/BBGeneral-1-768x576.jpg 768w, https://gymx.github.io/bonniebourne/wp-content/uploads/2016/10/BBGeneral-1-1024x768.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px">			</figure><!-- .post-thumbnail -->
+    						<div class="site-featured-image">
 
-								<div class="entry-header">
-						
+    		<figure class="post-thumbnail">
+    			<img width="1200" height="900" src="https://gymx.github.io/bonniebourne/wp-content/uploads/2016/10/BBGeneral-1-1200x900.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Bonnie Bourne" decoding="async" fetchpriority="high" srcset="https://gymx.github.io/bonniebourne/wp-content/uploads/2016/10/BBGeneral-1.jpg 1200w, https://gymx.github.io/bonniebourne/wp-content/uploads/2016/10/BBGeneral-1-300x225.jpg 300w, https://gymx.github.io/bonniebourne/wp-content/uploads/2016/10/BBGeneral-1-768x576.jpg 768w, https://gymx.github.io/bonniebourne/wp-content/uploads/2016/10/BBGeneral-1-1024x768.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px">			</figure><!-- .post-thumbnail -->
+
+    							<div class="entry-header">
+
 <h1 class="entry-title">About</h1>
 					</div><!-- .entry-header -->
 									</div>
 					</header><!-- #masthead -->
 
-	<div id="content" class="site-content">
+    <div id="content" class="site-content">
 
-	<div id="primary" class="content-area">
-		<main id="main" class="site-main">
+    <div id="primary" class="content-area">
+    	<main id="main" class="site-main">
 
-			
 <article id="post-6" class="post-6 page type-page status-publish has-post-thumbnail hentry entry">
 	
 	<div class="entry-content">
 		<p>Welcome to <strong>Bonnie Bourne</strong>, home of childhood memories of a life easier lived: adventures in the fields and plenty of imagination, complimented by plenty of good Southern cooking and quiet nights to rest and restore.</p>
-<p>The creation of this site commemorates the beginning of our adventure as we reclaim our ancestral farm and return it to productivity.</p>
-<p>For all, ourselves included, it is important to remember that we are urban folks. With the exception of summers on grandparents’ farms and my year living off the land with my father in Vermont, we know nothing about farming. And that’s what makes this such an adventure!</p>
-<p>We are learning quickly, starting with needed repairs on the 83 year-old house and growing from there to plans for chickens. We look forward to sharing our adventures as we go. Thanks for joining us for the ride.</p>
-<p>Jim &amp; Vali</p>
+		<p>The creation of this site commemorates the beginning of our adventure as we reclaim our ancestral farm and return it to productivity.</p>
+		<p>For all, ourselves included, it is important to remember that we are urban folks. With the exception of summers on grandparents’ farms and my 		year living off the land with my father in Vermont, we know nothing about farming. And that’s what makes this such an adventure!</p>
+		<p>We are learning quickly, starting with needed repairs on the 83 year-old house and growing from there to plans for chickens. We look forward 	to 	sharing our adventures as we go. Thanks for joining us for the ride.</p>
+		<p>Jim &amp; Vali</p>
 	</div><!-- .entry-content -->
 
-	</article><!-- #post-6 -->
+</article><!-- #post-6 -->
 
-		</main><!-- #main -->
-	</div><!-- #primary -->
+</main><!-- #main -->
+  </div><!-- #primary -->
 
+    </div><!-- #content -->
 
-	</div><!-- #content -->
+    <footer id="colophon" class="site-footer">
 
-	<footer id="colophon" class="site-footer">
-		
-	<aside class="widget-area" aria-label="Footer">
-							<div class="widget-column footer-widget-1">
-					
-		<section id="recent-posts-2" class="widget widget_recent_entries">
-		<h2 class="widget-title">Our Latest</h2><nav aria-label="Our Latest">
-		<ul>
-											<li>
-					<a href="https://gymx.github.io/bonniebourne/2021/01/24/what-lurks-above-the-cabinet/">What Lurks Above the Cabinet</a>
-											<span class="post-date">24 Jan 2021</span>
-									</li>
-											<li>
-					<a href="https://gymx.github.io/bonniebourne/2020/04/20/bedroom-brighten-up/">Bedroom Brighten-up</a>
-											<span class="post-date">20 Apr 2020</span>
-									</li>
-											<li>
-					<a href="https://gymx.github.io/bonniebourne/2019/07/10/ssl-update/">SSL Update</a>
-											<span class="post-date">10 Jul 2019</span>
-									</li>
-											<li>
-					<a href="https://gymx.github.io/bonniebourne/2018/02/01/heating-upgrade/">Heating Upgrade</a>
-											<span class="post-date">1 Feb 2018</span>
-									</li>
-											<li>
-					<a href="https://gymx.github.io/bonniebourne/2017/03/26/more-kitchen-work/">More Kitchen Work</a>
-											<span class="post-date">26 Mar 2017</span>
-									</li>
-					</ul>
+<aside class="widget-area" aria-label="Footer">
+	<section class="home-posts widget widget_recent_entries">
+	  <h2>Latest Posts</h2>
 
-		</nav></section><section id="nav_menu-2" class="widget widget_nav_menu"><h2 class="widget-title">More Ways To Connect</h2><nav class="menu-social-menu-container" aria-label="More Ways To Connect"><ul id="menu-social-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-204"><a href="http://www.facebook.com/bonniebourneva">BonnieBourneVA on Facebook</a></li>
+      <ul class="post-list">
+    {% for post in site.posts limit:5 %}
+      <li class="post-item">
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title }}
+          </a>        <span class="post-date">{{ post.date | date: "%d %b %Y" }}</span>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+
+</aside>
+
+    <aside class="widget-area" aria-label="Footer">
+    	<div class="widget-column footer-widget-1">
+    		<section id="recent-posts-2" class="widget widget_recent_entries">
+    		<h2 class="widget-title">Older Posts</h2><nav aria-label="Older Posts">
+    			<ul>
+    										<li>
+    				<a href="https://gymx.github.io/bonniebourne/2021/01/24/what-lurks-above-the-cabinet/">What Lurks Above the Cabinet</a>
+    										<span class="post-date">24 Jan 2021</span>
+    								</li>
+    										<li>
+    				<a href="https://gymx.github.io/bonniebourne/2020/04/20/bedroom-brighten-up/">Bedroom Brighten-up</a>
+    										<span class="post-date">20 Apr 2020</span>
+    								</li>
+    										<li>
+    				<a href="https://gymx.github.io/bonniebourne/2019/07/10/ssl-update/">SSL Update</a>
+    										<span class="post-date">10 Jul 2019</span>
+    								</li>
+    										<li>
+    				<a href="https://gymx.github.io/bonniebourne/2018/02/01/heating-upgrade/">Heating Upgrade</a>
+    										<span class="post-date">1 Feb 2018</span>
+    								</li>
+    										<li>
+    				<a href="https://gymx.github.io/bonniebourne/2017/03/26/more-kitchen-work/">More Kitchen Work</a>
+    										<span class="post-date">26 Mar 2017</span>
+    								</li>
+    				</ul>
+
+    				</nav>
+    				</section>
+    			<section id="nav_menu-2" class="widget widget_nav_menu"><h2 class="widget-title">More Ways To Connect</h2>
+    			<nav class="menu-social-menu-container" aria-label="More Ways To Connect"><ul id="menu-social-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-204"><a href="http://www.facebook.com/bonniebourneva">BonnieBourneVA on Facebook</a></li>
+
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-205"><a href="http://www.instagram.com/bonnie_bourne_va/">Bonnie_Bourne_VA on Instagram</a></li>
 </ul></nav></section><section id="categories-2" class="widget widget_categories"><h2 class="widget-title">Categories</h2><nav aria-label="Categories">
 			<ul>
@@ -181,16 +205,17 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 </li>
 			</ul>
 
-			</nav></section><section id="meta-2" class="widget widget_meta"><h2 class="widget-title">Site Info</h2><nav aria-label="Site Info">
-		<ul>
-						<li><a href="https://gymx.github.io/bonniebourne/wp-login.php">Log in</a></li>
-			<li><a href="https://gymx.github.io/bonniebourne/feed/">Entries feed</a></li>
-			<li><a href="https://gymx.github.io/bonniebourne/comments/feed/">Comments feed</a></li>
+    		</nav></section><section id="meta-2" class="widget widget_meta"><h2 class="widget-title">Site Info</h2><nav aria-label="Site Info">
+    	<ul>
+    					<li><a href="https://gymx.github.io/bonniebourne/wp-login.php">Log in</a></li>
+    		<li><a href="https://gymx.github.io/bonniebourne/feed/">Entries feed</a></li>
+    		<li><a href="https://gymx.github.io/bonniebourne/comments/feed/">Comments feed</a></li>
 
-			<li><a href="https://wordpress.org/">WordPress.org</a></li>
-		</ul>
+    		<li><a href="https://wordpress.org/">WordPress.org</a></li>
+    	</ul>
 
-		</nav></section><section id="tag_cloud-2" class="widget widget_tag_cloud"><h2 class="widget-title">Our Tag Cloud</h2><nav aria-label="Our Tag Cloud"><div class="tagcloud"><a href="https://gymx.github.io/bonniebourne/tag/backporch/" class="tag-cloud-link tag-link-13 tag-link-position-1" style="font-size: 8pt;" aria-label="backporch (1 item)">backporch</a>
+    	</nav></section><section id="tag_cloud-2" class="widget widget_tag_cloud"><h2 class="widget-title">Our Tag Cloud</h2><nav aria-label="Our Tag Cloud"><div class="tagcloud"><a href="https://gymx.github.io/bonniebourne/tag/backporch/" class="tag-cloud-link tag-link-13 tag-link-position-1" style="font-size: 8pt;" aria-label="backporch (1 item)">backporch</a>
+
 <a href="https://gymx.github.io/bonniebourne/tag/backyard/" class="tag-cloud-link tag-link-24 tag-link-position-2" style="font-size: 8pt;" aria-label="backyard (1 item)">backyard</a>
 <a href="https://gymx.github.io/bonniebourne/tag/bathroom/" class="tag-cloud-link tag-link-9 tag-link-position-3" style="font-size: 8pt;" aria-label="bathroom (1 item)">bathroom</a>
 <a href="https://gymx.github.io/bonniebourne/tag/cabinet/" class="tag-cloud-link tag-link-32 tag-link-position-4" style="font-size: 8pt;" aria-label="cabinet (1 item)">cabinet</a>
@@ -211,15 +236,16 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <a href="https://gymx.github.io/bonniebourne/tag/plumbing/" class="tag-cloud-link tag-link-22 tag-link-position-19" style="font-size: 8pt;" aria-label="plumbing (1 item)">plumbing</a>
 <a href="https://gymx.github.io/bonniebourne/tag/renovation/" class="tag-cloud-link tag-link-10 tag-link-position-20" style="font-size: 22pt;" aria-label="renovation (7 items)">renovation</a>
 <a href="https://gymx.github.io/bonniebourne/tag/shelves/" class="tag-cloud-link tag-link-28 tag-link-position-21" style="font-size: 8pt;" aria-label="shelves (1 item)">shelves</a></div>
+
 </nav></section>					</div>
 					</aside><!-- .widget-area -->
 
-			<div class="site-info">
-										<a class="site-name" href="https://gymx.github.io/bonniebourne/" rel="home">Bonnie Bourne</a>,
-						<a href="https://wordpress.org/" class="imprint">
-				Proudly powered by WordPress.			</a>
-								</div><!-- .site-info -->
-	</footer><!-- #colophon -->
+    		<div class="site-info">
+    									<a class="site-name" href="https://gymx.github.io/bonniebourne/" rel="home">Bonnie Bourne</a>,
+    					<a href="https://wordpress.org/" class="imprint">
+    			Proudly powered by WordPress.			</a>
+    							</div><!-- .site-info -->
+    </footer><!-- #colophon -->
 
 </div><!-- #page -->
 
