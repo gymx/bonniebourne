@@ -16,8 +16,9 @@
     <header>
       <h1>BonnieBourne</h1>
       <nav>
-        <a href="/index.html">Home</a>
-        <a href="/about.html">About</a>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/' | relative_url }}">About</a>
+        <!-- Yes, they point to the same place -->
       </nav>
     </header>
     <main style="margin: 2rem; max-width: 80%">{{ content }}</main>
